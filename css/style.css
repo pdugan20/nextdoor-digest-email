@@ -24,6 +24,8 @@ div.main-wrapper {
 img.email-logo {
 	margin: 25px auto 5px auto;
 	display:block;
+	width: 161px;
+	height: 22px;
 }
 
 div.content-main {
