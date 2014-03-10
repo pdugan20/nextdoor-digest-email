@@ -67,7 +67,6 @@ div.top-level-post {
 }
 
 div.profile-img {
-	width: 48px;
 	display: inline-block;
 	margin-right: 8px;
 }
@@ -75,7 +74,7 @@ div.profile-img {
 div.post-body {
 	display:inline-block;
 	vertical-align: top;
-	width: 80%;
+	width:85%;
 }
 
 div.post-title {
@@ -108,5 +107,9 @@ div.post-title {
 	div.header-plain {
 		line-height: 120%;
 		padding: 5px 10px 5px 10px;
+	}
+	
+	div.post-body {
+		width:75%;
 	}
 }
